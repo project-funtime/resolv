@@ -3,8 +3,8 @@
 On Github:
 https://github.com/heather-vikash-nicole-project-funtime/resolv
 
-Trello:   
+On Trello:
 https://trello.com/c/MSDrD7Lb/8-user-stories
 
-Moqups:
+On Moqups:
 https://moqups.com/vikashiscool/lMaOelxg
