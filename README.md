@@ -30,14 +30,14 @@ https://moqups.com/vikashiscool/lMaOelxg
 
 ##User Stories
 
-###Home page (index.html)
+####Home page (index.html)
 
 **As a visitor I can...**
 - view the page/read app description
 - create an account
 - sign in to existing account
 
-###Profile page (user/index.html):
+####Profile page (user/index.html):
 
 **As a user I can...**
 - View profile pic/avatar
@@ -46,7 +46,7 @@ https://moqups.com/vikashiscool/lMaOelxg
 - Delete a resolution
 - Logout
 
-###Edit profile page (user/edit.html):###
+####Edit profile page (user/edit.html):###
 
 **As a user I can...**
 - edit/upload avatar
@@ -55,7 +55,7 @@ https://moqups.com/vikashiscool/lMaOelxg
 - edit password
 - logout
 
-###New resolution form (resolution/new.html):###
+####New resolution form (resolution/new.html):###
 
 **As a user I can...**
 - create a resolution (title, description, category)
@@ -63,7 +63,7 @@ https://moqups.com/vikashiscool/lMaOelxg
 - share on FB/twitter
 - logout
 
-###Edit/Update resolution (resolution/edit.html):
+####Edit/Update resolution (resolution/edit.html):
 
 **As a user I can...**
 - edit resolution (title, description, category)
