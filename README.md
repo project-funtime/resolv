@@ -22,12 +22,6 @@ https://moqups.com/vikashiscool/lMaOelxg
 * Body-parser (parse data entered into forms)
 * Cookie-parser (maintain state with login)
 
-##Contributors
-
-* Nicole Borgaard
-* Vikash Parekh
-* Heather Stenson
-
 ##User Stories
 
 ###Home page (index.html)
@@ -70,3 +64,9 @@ https://moqups.com/vikashiscool/lMaOelxg
 - edit comments (text, date)
 - share on FB/twitter
 - logout
+
+##Contributors
+
+* Nicole Borgaard
+* Vikash Parekh
+* Heather Stenson
